@@ -12,15 +12,15 @@ The player will also have access to a world map within the companion app, allowi
 The idea that the map will be a hassle to open and close on your phone whenever you need it is present, however, ideally the player will begin to memorise the locations that they are progressing through, and begin to become more familiar with the world, allowing them to intuitively find their way.
 
 # Features
-1.Coaching
-2.Analytics
-3.Ads
-4.Push Notifications 
-5.Achievements
+1. Coaching
+2. Analytics
+3. Ads
+4. Push Notifications 
+5. Achievements
  
 # Special Features
-1.World Map
-2.Lore Info
+1. World Map
+2. Lore Info
 
 
 # Appearance
@@ -30,12 +30,12 @@ The journal will have a worn and old look to it, as it is a remnant of the past 
 ## Options
 When the player opens the journal they will be shown old and worn pages, with tabs across the top for the categories: 
 Each tab brings them to a page with the corresponding information.
-1.World Map
-2.Locations
-3.Bosses
-4.Enemies
-5.Hints
-6.Stats
-7.leaderboards. 
-8.Achievements
+1. World Map
+2. Locations
+3. Bosses
+4. Enemies
+5. Hints
+6. Stats
+7. leaderboards. 
+8. Achievements
 
